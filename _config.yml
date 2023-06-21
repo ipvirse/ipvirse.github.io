@@ -1,2 +1,2 @@
-#configuration file for the Jeckyll theme for GitHub page
+#configuration file for the Jekyll theme for GitHub page
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
