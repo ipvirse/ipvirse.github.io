@@ -1,0 +1,15 @@
+# Authors
+
+#check if icons are working as most likely they are not right now
+
+Ieva Virse (ex Petersone):
+  name: Ieva Virse
+  picture: /images/HeadshotBlackAndWhite.jpg
+  twitter: "@example"
+  links:
+    - title: Twitter
+      url: "#"
+      icon: fab fa-twitter-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/ievapetersone/
+      icon: fab fa-linkedin-square

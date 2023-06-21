@@ -1,0 +1,12 @@
+# Site navigation links
+
+- title: Main
+  url: /main/
+- title: Projects
+  url: /projects/
+- title: Templates
+  url: /templates/
+- title: Articles #Published in medium with small teaser in here and link to Medium article itself
+  url: /articles/
+- title: Search
+  url: /search/
