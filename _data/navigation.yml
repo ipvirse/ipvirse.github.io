@@ -1,7 +1,5 @@
 # Site navigation links
 
-- title: Main
-  url: /main/
 - title: Projects
   url: /projects/
 - title: Templates
