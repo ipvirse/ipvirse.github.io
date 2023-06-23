@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Home
-  url: /
+  url: /home/
 - title: Projects
   url: /projects/
 - title: Articles #Published in medium with small teaser in here and link to Medium article itself
