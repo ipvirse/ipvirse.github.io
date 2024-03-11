@@ -22,9 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-<<<<<<< HEAD
 
 package-lock.json
 package.json
-=======
->>>>>>> 9c55770345de414e65c6dc95a547be576a582efc
